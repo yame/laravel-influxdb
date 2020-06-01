@@ -1,12 +1,12 @@
 {
-    "name": "tray-labs/laravel-influxdb",
+    "name": "yamez/laravel-influxdb",
     "description": "A service made to provide, set up and use the library from influxdata influxphp in Laravel.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Tray Labs",
-            "email": "dev@traylabs.com.br"
+            "name": "Yame",
+            "email": "zhengym912@qq.com"
         }
     ],
     "autoload": {
